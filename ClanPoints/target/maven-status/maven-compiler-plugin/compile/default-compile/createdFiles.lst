@@ -1,0 +1,8 @@
+org\edgegamers\picklez\commands\CostChecker.class
+org\edgegamers\picklez\listeners\DeathEvent.class
+org\edgegamers\picklez\commands\SetCommand.class
+org\edgegamers\picklez\main\ClanPoints.class
+org\edgegamers\picklez\commands\HelpCommand.class
+org\edgegamers\picklez\storage\Points.class
+org\edgegamers\picklez\commands\AddCommand.class
+org\edgegamers\picklez\commands\PurchaseCommand.class

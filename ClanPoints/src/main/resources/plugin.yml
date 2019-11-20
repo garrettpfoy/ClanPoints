@@ -1,0 +1,5 @@
+main: org.edgegamers.picklez.main.ClanPoints
+name: ClanPoints
+version: 1.0.0 SNAPSHOT
+author: PickleZ
+description: EdgeGamers Kingdoms gamemode, custom clan point plugin
